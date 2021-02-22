@@ -1,0 +1,26 @@
+img{
+    width: 300px;
+    height: 200px;
+}
+
+h1 { background-color: brown;
+
+}
+h1{font-size: 50px;}
+h1{ color: royalblue;}
+li{ color: rgb(255, 0, 0);}
+li{font-size: 30px;}
+p{color: maroon;}
+p{font-size: 30px;}
+p{background-color: rgb(85, 93, 211);}
+img {stroke: rgb(128, 47, 0);
+ 
+
+}
+h1{
+    background-image: red;
+}
+ul{background-color: rgb(176, 204, 230);}
+html{
+    background-image: url("https://www.magisto.com/blog/wp-content/uploads/2019/03/Twitter.jpg");
+}
